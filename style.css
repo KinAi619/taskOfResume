@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+input{
+    border: 2px solid #718114;
+
+}
+#list{
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    padding-left: 0;
+    margin: 5px;
+}
+#submit-btn{
+    position: relative;
+    margin: 20px;
+    background-color: #1083b985;
+    color: #571e04;
+    font-family: Georgia, 'Times New Roman', Times, serif, bold;
+    border: 1px solid;
+    cursor: pointer;
+}
+.spisok{
+    display: inline-block;
+}
